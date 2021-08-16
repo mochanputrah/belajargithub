@@ -1,2 +1,2 @@
 buat file hello.txt
-(perubahan untuk mempelajari conflict files)
+(perubahan asal-asal agar mempelajari jika terjadi conflict)
